@@ -36,6 +36,10 @@ PROJECT ROADMAP
 
 4. Acquire Necessary Tools and software
 
+  -Raspberry Pi 4
+    -acquired 4/16/21
+  -NEMS
+    -acquired 4/16/21
 5. Begin Developement
 
 6. Review and edit project
