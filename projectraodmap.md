@@ -40,6 +40,8 @@ PROJECT ROADMAP
     -acquired 4/15/21. Raspberry Pi was recieved in mail, have not begun configuration yet.
   -NEMS
     -acquired software 4/16/21. Not installed on Raspberry pi yet
+  -Etcher Flask image writer
+    -acquired software 4/16/21. Not yet configured or used to create image
   -Cacti
     -acquired software 4/16/21. Not installed on Raspberry pi yet
   -RRDtool
