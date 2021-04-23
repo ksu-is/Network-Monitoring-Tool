@@ -52,7 +52,7 @@ PROJECT ROADMAP
     -not yet acquired
   
 5. Begin Developement
-
+    -began development on start up script as well as setting up Raspberry pi and installing necessary applications (4/23/21)
 6. Review and edit project
 
 7. Test project
